@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "fio": "Иванов И.И.",
+    "position": "Разработчик",
+    "department": "IT",
+    "salary": 150000,
+    "hire_date": "2025-01-15"
+  },
+  {
+    "id": 2,
+    "fio": "Петров П.П.",
+    "position": "Менеджер",
+    "department": "HR",
+    "salary": 80000,
+    "hire_date": "2025-03-10"
+  },
+  {
+    "id": 3,
+    "fio": "Сидорова А.С.",
+    "position": "Дизайнер",
+    "department": "IT",
+    "salary": 120000,
+    "hire_date": "2025-06-01"
+  },
+  {
+    "id": 4,
+    "fio": "Новый Новый Новичков",
+    "position": "Стажер",
+    "department": "IT",
+    "salary": 50000,
+    "hire_date": "2026-03-01"
+  },
+  {
+    "id": 5,
+    "fio": "Новый Новый Новичков",
+    "position": "Стажер",
+    "department": "IT",
+    "salary": 50000,
+    "hire_date": "2026-03-01"
+  },
+  {
+    "id": 6,
+    "fio": "Новый Новый Новичков",
+    "position": "Стажер",
+    "department": "IT",
+    "salary": 50000,
+    "hire_date": "2026-03-01"
+  }
+]
